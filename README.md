@@ -23,8 +23,7 @@ This project demonstrates SQL queries using a SQLite database with Node.js and E
 
 ### Get All Products
 
-**GET**
-`/products`
+**GET** `/products`
 
 Returns all products from the SQLite database.
 
@@ -47,21 +46,30 @@ https://exp6-query.onrender.com/products
     }
   ]
 }
+```
+
 ## How to Run
 
 Install the required packages:
 
 ```bash
 npm install
+```
 
-start the server:
+Start the server:
+
+```bash
 node server.js
+```
 
 The server will run on:
-http://localhost:3000
+
+`http://localhost:3000`
 
 ## Deployment
+
 The project is deployed using Render.
 
-Live URL:
+**Live URL:**
+
 https://exp6-query.onrender.com/products
