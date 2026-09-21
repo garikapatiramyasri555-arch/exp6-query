@@ -60,7 +60,7 @@ node server.js
 The server will run on:
 http://localhost:3000
 
-Deployment
+## Deployment
 The project is deployed using Render.
 
 Live URL:
