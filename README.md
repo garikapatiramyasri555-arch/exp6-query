@@ -47,3 +47,21 @@ https://exp6-query.onrender.com/products
     }
   ]
 }
+## How to Run
+
+Install the required packages:
+
+```bash
+npm install
+
+start the server:
+node server.js
+
+The server will run on:
+http://localhost:3000
+
+Deployment
+The project is deployed using Render.
+
+Live URL:
+https://exp6-query.onrender.com/products
